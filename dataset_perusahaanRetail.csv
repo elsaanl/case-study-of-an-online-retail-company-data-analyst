@@ -1,0 +1,25 @@
+Bulan,Wilayah,Produk,Jumlah_Terjual,Harga_Satuan,Total_Penjualan,Usia_Pelanggan_Rata2,Frekuensi_Belanja,Preferensi_Produk,Kompetitor_Harga_Rata2,Kompetitor_Promo
+Januari,Bandung,Laptop,29,7000000,116174490.09559414,29,6,Elektronik,6800000,Diskon 10%
+Januari,Semarang,Smartphone,32,4000000,100086839.4222147,31,5,Elektronik,3900000,Cashback 5%
+Januari,Surabaya,Tablet,42,3500000,105375034.44050413,27,4,Elektronik,3400000,Diskon 8%
+Januari,Jakarta,Smartwatch,45,2000000,109356017.17409417,26,5,Gadget,1900000,Cashback 10%
+Februari,Bandung,Laptop,25,7000000,114719152.35439983,29,6,Elektronik,6800000,Diskon 10%
+Februari,Semarang,Smartphone,47,4000000,98697129.03825171,31,5,Elektronik,3900000,Cashback 5%
+Februari,Surabaya,Tablet,48,3500000,104779218.19975775,27,4,Elektronik,3400000,Diskon 8%
+Februari,Jakarta,Smartwatch,20,2000000,108486957.72867368,26,5,Gadget,1900000,Cashback 10%
+Maret,Bandung,Laptop,50,7000000,112424769.30731183,29,5,Elektronik,6800000,Diskon 10%
+Maret,Semarang,Smartphone,33,4000000,96723186.45748669,31,5,Elektronik,3900000,Cashback 5%
+Maret,Surabaya,Tablet,50,3500000,102683633.8357626,27,4,Elektronik,3400000,Diskon 8%
+Maret,Jakarta,Smartwatch,22,2000000,106317218.57410021,26,5,Gadget,1900000,Cashback 10%
+April,Bandung,Laptop,34,7000000,109052026.22809248,29,5,Elektronik,6800000,Diskon 10%
+April,Semarang,Smartphone,50,4000000,93821490.8637621,31,5,Elektronik,3900000,Cashback 5%
+April,Surabaya,Tablet,48,3500000,99603124.82068972,27,4,Elektronik,3400000,Diskon 8%
+April,Jakarta,Smartwatch,20,2000000,103127702.0168772,26,4,Gadget,1900000,Cashback 10%
+Mei,Bandung,Laptop,24,7000000,104689945.17896877,29,5,Elektronik,6800000,Diskon 10%
+Mei,Semarang,Smartphone,34,4000000,90068631.22921161,31,4,Elektronik,3900000,Cashback 5%
+Mei,Surabaya,Tablet,23,3500000,95618999.82786214,27,4,Elektronik,3400000,Diskon 8%
+Mei,Jakarta,Smartwatch,46,2000000,99002593.93620211,26,4,Gadget,1900000,Cashback 10%
+Juni,Bandung,Laptop,24,7000000,99455447.92002033,29,5,Elektronik,6800000,Diskon 10%
+Juni,Semarang,Smartphone,26,4000000,85565199.66775101,31,4,Elektronik,3900000,Cashback 5%
+Juni,Surabaya,Tablet,21,3500000,90838049.83646902,27,4,Elektronik,3400000,Diskon 8%
+Juni,Jakarta,Smartwatch,25,2000000,94052464.23939198,26,4,Gadget,1900000,Cashback 10%
